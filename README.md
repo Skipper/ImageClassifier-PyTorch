@@ -61,9 +61,8 @@ _(insertar ejemplos de imágenes clasificadas correctamente con la probabilidad 
 
 ### ❌ Predicciones Incorrectas  
 _(Ejemplos donde el modelo falló y posibles razones del error)_
-![Screenshot](images/000.png)
 <div style="text-align: center;">
-    <img src="images/02.jpg" alt="Modelo falló" width="400">
+    <img src="images/predict mal.png" alt="Modelo falló" width="400">
     <img src="images/03.jpg" alt="Razones del error" width="400">
 </div>
 
@@ -72,8 +71,9 @@ _(Ejemplos donde el modelo falló y posibles razones del error)_
 ### 🧪 Modelos Entrenados y Comparativas  
 _(Gráficos que muestren la evolución del modelo según el número de épocas)_
 <div style="text-align: center;">
-    <img src="images/02.jpg" alt="Modelos Entrenados" width="400">
-    <img src="images/03.jpg" alt="Comparativas" width="400">
+    <img src="images/10 epocas.png" alt="Comparativas" width="800">
+    <img src="images/Figure_1_Loss_50.png" alt="Comparativas" width="400">
+    <img src="images/Figure_2_Acc_50.png" alt="Comparativas" width="400">
 </div>
 
 ---

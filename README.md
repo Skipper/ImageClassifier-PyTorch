@@ -62,8 +62,8 @@ _(insertar ejemplos de imágenes clasificadas correctamente con la probabilidad 
 ### ❌ Predicciones Incorrectas  
 _(Ejemplos donde el modelo falló y posibles razones del error)_
 <div style="text-align: center;">
+    <img src="images/predict with 10 epoch.png" alt="Razones del error" width="410">
     <img src="images/predict mal.png" alt="Modelo falló" width="400">
-    <img src="images/03.jpg" alt="Razones del error" width="400">
 </div>
 
 ---

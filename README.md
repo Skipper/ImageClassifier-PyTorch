@@ -1,5 +1,9 @@
 # 🐱🐶 Clasificación de Imágenes: Gatos y Perros con PyTorch
 
+<div style="text-align: center;">
+    <img src="images/Begin.png" alt="Vista principal" width="800">
+</div>
+
 ## 📌 Descripción del Proyecto
 
 Este proyecto tiene como objetivo construir un modelo de clasificación de imágenes capaz de distinguir entre gatos y perros utilizando redes neuronales convolucionales (CNN) con PyTorch.
@@ -51,10 +55,16 @@ Durante el desarrollo, se comprobó que **la calidad del dato** (presencia de im
 ## 🖼️ Visualizaciones del Proceso
 
 ### 📸 Predicciones Correctas  
-_(insertar ejemplos de imágenes clasificadas correctamente con la probabilidad del modelo)_
-![Screenshot](images/000.png)
+_(ejemplos de imágenes clasificadas correctamente con la probabilidad del modelo)_
+
 <div style="text-align: center;">
-    <img src="images/000.png" alt="Vista principal" width="400">
+    <img src="images/100.png" alt="Predicción 100%" height="185">
+    <img src="images/docker.png" alt="Docker" height="185">
+    <img src="images/local data.png" alt="Pycharm" width="400">
+</div>
+<div style="text-align: center;">
+    <img src="images/registros insertados.png" alt="MongoDB" width="400">
+    <img src="images/insertados en data db.png" alt="CMD" height="120">
 </div>
 
 ---
@@ -64,6 +74,8 @@ _(Ejemplos donde el modelo falló y posibles razones del error)_
 <div style="text-align: center;">
     <img src="images/predict with 10 epoch.png" alt="Razones del error" width="410">
     <img src="images/predict mal.png" alt="Modelo falló" width="400">
+    <img src="images/cat.7967.png" alt="Imagen no válida" width="405">
+    <img src="images/cat.11564.png" alt="Imagen no válida" width="405">
 </div>
 
 ---

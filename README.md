@@ -1,12 +1,12 @@
 # 🐱🐶 Clasificación de Imágenes: Gatos y Perros con PyTorch
 
-<div style="text-align: center;">
-    <img src="images/Begin.png" alt="Vista principal" width="800">
-</div>
-
 ## 📌 Descripción del Proyecto
 
 Este proyecto tiene como objetivo construir un modelo de clasificación de imágenes capaz de distinguir entre gatos y perros utilizando redes neuronales convolucionales (CNN) con PyTorch.
+
+<div style="text-align: center;">
+    <img src="images/bg.png" alt="Vista principal" width="800">
+</div>
 
 Descarga del dataset desde Kaggle:  
 📦 **[Dog and Cat Classification Dataset – Kaggle](https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset/data)**
@@ -87,14 +87,8 @@ _(Gráficos que muestren la evolución del modelo según el número de épocas)_
     <img src="images/Figure_1_Loss_50.png" alt="Comparativas" width="400">
     <img src="images/Figure_2_Acc_50.png" alt="Comparativas" width="400">
 </div>
-
----
-
-### 📊 Evolución del Aprendizaje  
-_(Pérdida y precisión por época, idealmente en dos gráficos separados)_
 <div style="text-align: center;">
-    <img src="images/02.jpg" alt="Pérdida" width="400">
-    <img src="images/03.jpg" alt="Precisión por época" width="400">
+    <img src="images/Begin.png" alt="Vista principal" width="800">
 </div>
 
 ---
